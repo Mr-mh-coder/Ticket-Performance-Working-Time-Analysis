@@ -152,19 +152,19 @@ These analyses help highlight areas that may require further investigation and s
 
 ### Home Dashboard
 
-(screenshots/home.png)
+![Home Dashboard](screenshots/home.png)
 
 ### Management Dashboard
 
-(screenshots/management.png)
+![Management Dashboard](screenshots/management.png)
 
 ### Activity Analysis
 
-(screenshots/activity-analysis.png)
+![Activity Analysis](screenshots/activity-analysis.png)
 
 ### Employee Analysis
 
-(screenshots/employee-analysis.png)
+![Employee Analysis](screenshots/employee-analysis.png)
 
 ---
 

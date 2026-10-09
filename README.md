@@ -181,5 +181,3 @@ ticket-performance-power-bi/
     ├── activity-analysis.png
     └── employee-analysis.png
 ```
-* Add further KPIs based on business requirements and data availability.
-
